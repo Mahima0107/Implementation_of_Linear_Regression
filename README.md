@@ -2,7 +2,7 @@
 
 Linear Regression is a simple and widely used supervised machine learning algorithm used to predict a numeric value based on the relationship between input (independent) variables and a target (dependent) variable.
 
-
+In this dataset There are 8 columns and 1300 rows.
 Algorithm Used: Linear Regression
 Libraries: scikit-learn, pandas, matplotlib, seaborn
 
