@@ -14,21 +14,7 @@ Linear Regression is a simple and widely used supervised machine learning algori
 
 The goal of this project is to develop a predictive model using Linear Regression to estimate individual health insurance charges based on factors like age, BMI, smoking status, number of children, and region. This analysis aims to help insurance providers understand how demographic and lifestyle factors influence cost and assist in pricing policies more accurately.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 📌 Conclusion
-Linear Regression provides a strong baseline model for predicting health insurance charges.
-The model highlights smoking, age, and BMI as the most influential predictors.
-This project demonstrates how simple regression models can still provide valuable insights in real-world cost estimation problems.
+* Linear Regression provides a strong baseline model for predicting health insurance charges.
+ The model highlights smoking, age, and BMI as the most influential predictors.
+ This project demonstrates how simple regression models can still provide valuable insights in real-world cost estimation problems.
