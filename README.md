@@ -2,9 +2,9 @@
 
 Linear Regression is a simple and widely used supervised machine learning algorithm used to predict a numeric value based on the relationship between input (independent) variables and a target (dependent) variable.
 
-In this dataset There are 8 columns and 1300 rows.
-Algorithm Used: Linear Regression
-Libraries: scikit-learn, pandas, matplotlib, seaborn
+* In this dataset There are 8 columns and 1300 rows.
+* Algorithm Used: Linear Regression
+* Libraries: scikit-learn, pandas, matplotlib, seaborn
 
 🔑 Key Features – Linear Regression for Health Insurance Dataset
 The Health Insurance dataset includes several demographic and lifestyle features that significantly impact the insurance charges (our target variable). These features help build a linear regression model capable of predicting cost with a reasonable level of accuracy and interpretability.
