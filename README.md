@@ -12,7 +12,8 @@ Linear Regression is a simple and widely used supervised machine learning algori
 🔍 Model Accuracy :
 * The Linear Regression model show 100% accuracy (R² = 1.0), indicating that it perfectly explains the variance in the target variable. This suggests a strong linear relationship between features and target.        However, further validation is needed to ensure this is not due to overfitting or data leakage.
 
-The goal of this project is to develop a predictive model using Linear Regression to estimate individual health insurance charges based on factors like age, BMI, smoking status, number of children, and region. This analysis aims to help insurance providers understand how demographic and lifestyle factors influence cost and assist in pricing policies more accurately.
+🔍 Goal :
+* The goal of this project is to develop a predictive model using Linear Regression to estimate individual health insurance charges based on factors like age, BMI, smoking status, number of children, and region. This analysis aims to help insurance providers understand how demographic and lifestyle factors influence cost and assist in pricing policies more accurately.
 
 📌 Conclusion
 * Linear Regression provides a strong baseline model for predicting health insurance charges.
